@@ -16,8 +16,6 @@ DevCritique is a collaborative project review system built to facilitate the sha
 
 - **Points and Rewards**: Reviewers earn points based on their received ratings, allowing them to unlock badges and achievements.
 
-## Live Preview
-Check out the live preview of DevCritique at [https://devcritique.vercel.app](https://devcritique.vercel.app).
 
 ## Installation and Setup
 
@@ -25,7 +23,7 @@ To set up the DevCritique Collaborative Project Review System locally, follow th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Nilesh9106/DevCritique-frontend.git
+   
     cd DevCritique-frontend
     ```
 2. Install the required dependencies using npm or yarn:
