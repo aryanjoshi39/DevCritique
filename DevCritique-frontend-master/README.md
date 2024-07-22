@@ -24,7 +24,7 @@ To set up the DevCritique Collaborative Project Review System locally, follow th
 1. Clone the repository:
     ```bash
    
-    cd DevCritique-frontend
+    cd DevCritique-frontend-master
     ```
 2. Install the required dependencies using npm or yarn:
     ```bash
